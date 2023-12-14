@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UlaNIE</string>
+    <string name="idBtnAddWorkout">Wpisz</string>
 </resources>
